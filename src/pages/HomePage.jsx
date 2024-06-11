@@ -1,12 +1,15 @@
 
 
 const HomePage = () => {
+ 
 
-    return (
-        <>
-        <h1>Hello World !!!!</h1>
-        </>
-    )
-}
+  return (
+    <>
+      <div className="container">
+        
+      </div>
+    </>
+  );
+};
 
-export default HomePage
+export default HomePage;
